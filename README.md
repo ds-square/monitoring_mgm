@@ -31,5 +31,16 @@ This will start the web application on your local machine. You can access it by 
 Contributions to the MGM project are welcome. If you wish to contribute, please fork the repository and submit a pull request.
 
 ## Cite this work
-
-TBD
+```
+@article{PALMA2024125623,
+title = {How to assess measurement capabilities of a security monitoring infrastructure and plan investment through a graph-based approach},
+journal = {Expert Systems with Applications},
+pages = {125623},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2024.125623},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417424024904},
+author = {Alessandro Palma and Andrea Sorrentino and Silvia Bonomi},
+keywords = {Cybersecurity, Security monitoring, Security investment, Graph-based model, Monitoring infrastructure},
+}
+```
